@@ -25,15 +25,30 @@ header {
 	height: 89px;
 	background-color: #084F70;
 	color: #fff;
-	position: relative;
+}
+
+header div {
+	height: 100%;
+}
+
+header .header-main-container {
 	display: table;
 }
 
-.header-main-container {
+header .header-main-container h1,
+header .header-main-container p {
 	display: table-cell;
 	vertical-align: middle;
 }
 
+header .header-main-container:nth-child(2) {
+	text-align: right;
+	font-weight: 700;
+}
 
+header .header-main-container button {
+	background-color: #1ab188;
+	margin-left: 20px;
+}
 
 
