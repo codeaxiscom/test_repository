@@ -1,7 +1,65 @@
 body{
-	background-color: #F2EDD8;
+	background-color: #c2bdba;
 }
 .login-heading{
 	text-align: center;
-	font-size: 50px;
+}
+.container-row{
+	text-align: center;
+	background-color: #24303c;
+	width: 50%;
+	margin: 0 auto;
+	padding: 25px 0;
+}
+.buttons-row{
+	text-align: center;
+}
+.sign-up-button{
+	background-image: none;
+	background-color: #1ab188;
+	color: #fff;
+	border: 1px solid #1ab188;
+	border-radius: 0;
+	padding: 10px 70px;
+	width: 200px;
+}
+.log-in-button{
+	background-image: none;
+	background-color: #435259;
+	color: gray;
+	border: 1px solid #435259;
+	border-radius: 0;
+	padding: 10px 70px;
+	width: 200px;
+}
+.sign-up-row{
+	margin-bottom: 20px;
+}
+.sign-up-text{
+	color: #fff;
+}
+.input-texts{
+	background-color: transparent;
+	border: 1px solid #435259;
+	background-image: none;
+	padding: 5px 33px;
+}
+.required-sign{
+	color: green;
+}
+.second-input-row{
+	width: 70.5%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.email-input{
+	width: 100%;
+}
+.third-input-row{
+	width: 70.5%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.password-input{
+	width: 100%;
 }
