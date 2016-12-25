@@ -4,6 +4,7 @@
 <head>
 	<title>Main Page</title>
 	<link href="includes/Bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+	<link href="includes/font-awesome-4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
 	<link href="css/style.css" type="text/css" rel="stylesheet" />
 </head>
 
